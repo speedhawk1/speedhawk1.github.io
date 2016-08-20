@@ -11,3 +11,14 @@ h4#mm{
     font-size:60px;
     text-indent:3em;
 }
+
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
+#colortext{
+    color:purple;
+    font-size:70px;
+}
