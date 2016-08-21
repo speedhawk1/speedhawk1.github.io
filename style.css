@@ -21,3 +21,29 @@ h4{
     color:purple;
     font-size:70px;
 }
+#fontchange{
+    font-size:70px;
+}
+a#fontchange:link{
+    font-family:Mistral,serif;
+    color:hotpink;
+}
+#fontchange:visited{
+    color:dimgray;
+    text-decoration:underline;
+}
+#fontchange:hover{
+    font-family:"Berlin Sans FB",serif;
+    color:deepskyblue;
+}
+#fontchange:active{
+    color:chartreuse;
+}
+#shouzimu{
+
+}
+p#shouzimu::first-letter{
+    font-family: Cambria,serif;
+    font-size:40px;
+}
+
