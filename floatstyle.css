@@ -1,0 +1,14 @@
+* {
+    margin:0;
+    padding:0;
+}
+#bigdiv,#d1,#d2,#d3 {
+    margin:25px;
+    padding:25px;
+    background:cornflowerblue;
+    border:1px solid saddlebrown;
+}
+#d1,#d2{
+    float: left;
+    border:1px solid red;
+}

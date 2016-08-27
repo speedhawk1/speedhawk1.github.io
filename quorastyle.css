@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(image/thetheme1.png) no-repeat center top;
+    height: 100%;
+    word-wrap: break-word;
+    color: #333;
+    font-size: 13px;
+    overflow-y: scroll;
+
+
+}
+#all {
+    width: 650px;
+    height: 100%;
+    position: absolute;
+    bottom: initial;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow-y: hidden;
+    top: 10%;
+}
+#all_innertitle {
+    width: 224px;
+    background-size: 224px 63px;
+    height: 82px;
+    position: relative;
+    margin:auto;
+}
+#words {
+    font-size: 19px;
+    font-weight: 400;
+    font-family: Georgia,Times,"Times New Roman",serif;
+    margin: 8px 0 32px;
+    color: #999;
+    text-align: center;
+}
+#container {
+    background: #fff;
+    border: 1px solid #e2e2e2;
+    box-shadow: 0 2px 6px 0 rgba(200,200,200,0.2);
+    border-radius: 4px;
+    margin-top: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+}
+#duihuakuang {
+    padding: 32px;
+}
+#login {
+    position: relative;
+}
+.signup {
+    float: left;
+    box-sizing: border-box;
+    width: 50%;
+}
+.logining {
+    float: left;
+    box-sizing: border-box;
+    width: 50%;
+}
+#anniu {
+    display:block;
+}
